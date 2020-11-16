@@ -1,4 +1,4 @@
-Harver JS Exercise
+Answers for : Harver JS Exercise
 ============================
 
 [Original repo](https://github.com/harver-engineering/exercise)
